@@ -39,10 +39,13 @@ I build web applications, automate workflows, and enjoy learning cloud & DevOps 
 🚀 Open Source & Contributions
 Notable pull requests I've authored:
 
-Add stored procedure and function tools with comprehensive test coverage — Azure-Samples/SQL-AI-samples#59 (author: @shubham070)
-ms-sql-dba.chatmode — github/awesome-copilot#89 (merged; author: @shubham070)
-Add comprehensive SQL and PostgreSQL prompt ecosystem for code review and optimization — github/awesome-copilot#115 (merged; author: @shubham070)
-fix: update broken SQL Server performance tuning link 🤖🤖🤖 — github/awesome-copilot#1587 (author: @shubham070)
+1. Add stored procedure and function tools with comprehensive test coverage — Azure-Samples/SQL-AI-samples#59 (author: @shubham070)
+
+2. ms-sql-dba.chatmode — github/awesome-copilot#89 (merged; author: @shubham070)
+
+3. Add comprehensive SQL and PostgreSQL prompt ecosystem for code review and optimization — github/awesome-copilot#115 (merged; author: @shubham070)
+
+4. fix: update broken SQL Server performance tuning link 🤖🤖🤖 — github/awesome-copilot#1587 (author: @shubham070)
 
 
 ---
