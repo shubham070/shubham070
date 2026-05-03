@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Shubham!</h1>
-<h3 align="center">Full‑Stack Developer | DevOps & Cloud Enthusiast | Learner</h3>
+<h3 align="center">Full‑Stack Developer | DevOps & AI Enthusiast | Learner</h3>
 
 ## 👨‍💻 About Me
 
-I build web applications, automate workflows, and enjoy learning cloud & DevOps practices. This repository is my GitHub profile repo — a place to introduce myself, surface my projects, and share how to reach me.
+I build web applications, automate workflows, and enjoy learning AI & DevOps practices. This repository is my GitHub profile repo — a place to introduce myself, surface my projects, and share how to reach me.
 
 - 🔭 Currently working on: personal projects, Exploring AI / Copilot / Agentic AI learning Kubernetes and cloud deployments.
-- 🌱 I’m currently learning: advanced JavaScript/TypeScript patterns, CI/CD, and infrastructure as code.
+- 🌱 I’m currently learning: advanced React/JavaScript/TypeScript, C#, mictoservices, SQL, design patterns, CI/CD, and infrastructure as code.
 - ⚡ Fun fact: I enjoy building small automation tools to make repetitive tasks easier.
 
 ---
@@ -54,8 +54,6 @@ Notable pull requests I've authored:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shubham070&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ---
 
